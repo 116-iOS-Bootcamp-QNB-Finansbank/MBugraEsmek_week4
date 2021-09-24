@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Hero (1.6.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - Hero
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Hero
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+
+PODFILE CHECKSUM: 4c10e8701632e7ae85124290c69731c66063a882
+
+COCOAPODS: 1.11.2
